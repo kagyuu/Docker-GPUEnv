@@ -1,2 +1,2 @@
 # Docker-GPUEnv
-A docker-compose image for an AI Programming with the VSCode.
+A docker-compose image for AI Programming with the VSCode.
